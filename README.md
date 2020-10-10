@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there!
+#### Welcome to my Github profile
+
+I'm Krithika N, an aspiring data scientist, actively looking for opportunities. 
 
 <!--
 **nagik17/nagik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
