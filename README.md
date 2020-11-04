@@ -10,6 +10,8 @@
 4. Car Price Prediction App using Flask API
 5. Online Course Assignments
 
+Recently, started writing blogs on Medium, 
+www.medium.com/@krithikanagi
 
 <!--
 **nagik17/nagik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
