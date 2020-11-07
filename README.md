@@ -11,7 +11,7 @@
 5. Online Course Assignments
 
 Recently, started writing blogs on Medium, 
-www.krithikanagi.medium.com
+krithikanagi.medium.com 
 
 <!--
 **nagik17/nagik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
