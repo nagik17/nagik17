@@ -8,7 +8,7 @@
 2. YOLO V4 Implementation for Number Plate Dataset
 3. YOLO V4 for detecting balls from Ball Dataset 
 4. Car Price Prediction App using Flask API
-5. Implementations of all ML, DL stet-of-the-art algorithms
+5. Implementations of all ML, DL well-known and state-of-the-art algorithms
 
 Recently, started writing blogs on Medium, https://krithikanagi.medium.com 
 
