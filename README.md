@@ -1,5 +1,4 @@
-### Hello there,
-##### **Welcome to my Github profile!**
+### Hello there, **Welcome to my Github profile!**
 
 #### I'm Krithika N, an aspiring data scientist, actively looking for opportunities. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,9 +15,9 @@ Recently, started writing blogs on Medium, https://krithikanagi.medium.com <br /
 2. [An Overview of Stemming Algorithms](https://krithikanagi.medium.com/an-overview-of-stemming-algorithms-501ad413653)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Contact Info: 
-***Email:*** krithikanagi@gmail.com <br />
-***Phone:*** +91-8309319220 <br />
-***LinkedIn:*** https://www.linkedin.com/in/krithikanagendiran/
+1. Email: krithikanagi@gmail.com <br />
+2. Phone:*** +91-8309319220 <br />
+3. LinkedIn:*** https://www.linkedin.com/in/krithikanagendiran/
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
