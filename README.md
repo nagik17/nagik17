@@ -1,6 +1,6 @@
 ### Hello there, **Welcome to my Github profile!**
-
-#### I'm Krithika N, an aspiring data scientist, actively looking for opportunities. 
+#### About Me:
+* I'm Krithika N, an aspiring data scientist, actively looking for opportunities. Work Done on Machine Learning algorithms on huge datasets, Clustering, Recommendation Systems and Deep Learning algorithms. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 **Latest projects Include:**
 1. [ChatBot Implementation using Tflearn](https://github.com/nagik17/ChatBot_using_Tflearn)
