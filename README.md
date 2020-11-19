@@ -15,6 +15,12 @@ Recently, started writing blogs on Medium, https://krithikanagi.medium.com <br /
 1. [Collaborative-Filtering versus Content-based Recommendation Systems](https://krithikanagi.medium.com/collaborative-filtering-versus-content-based-rs-590a2ec8e7b7)
 2. [An Overview of Stemming Algorithms](https://krithikanagi.medium.com/an-overview-of-stemming-algorithms-501ad413653)
 
+Contact Info:
+Email: krithikanagi@gmail.com
+Phone: 8309319220
+LinkedIn: www.linkedin.com/krithikanagendiran 
+
+
 <!--
 **nagik17/nagik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
