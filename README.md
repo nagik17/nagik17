@@ -16,8 +16,8 @@ Recently, started writing blogs on Medium, https://krithikanagi.medium.com <br /
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Contact Info: 
 1. Email: krithikanagi@gmail.com <br />
-2. Phone:*** +91-8309319220 <br />
-3. LinkedIn:*** https://www.linkedin.com/in/krithikanagendiran/
+2. Phone: +91-8309319220 <br />
+3. LinkedIn: https://www.linkedin.com/in/krithikanagendiran/
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
