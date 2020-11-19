@@ -15,7 +15,7 @@ Recently, started writing blogs on Medium, https://krithikanagi.medium.com <br /
 1. [Collaborative-Filtering versus Content-based Recommendation Systems](https://krithikanagi.medium.com/collaborative-filtering-versus-content-based-rs-590a2ec8e7b7)
 2. [An Overview of Stemming Algorithms](https://krithikanagi.medium.com/an-overview-of-stemming-algorithms-501ad413653)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-**Contact Info:**
+#### Contact Info: 
 ***Email:*** krithikanagi@gmail.com <br />
 ***Phone:*** +91-8309319220 <br />
 ***LinkedIn:*** https://www.linkedin.com/in/krithikanagendiran/
