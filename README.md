@@ -5,8 +5,8 @@
 **Latest projects Include:**
 1. [ChatBot Implementation using Tflearn](https://github.com/nagik17/ChatBot_using_Tflearn)
 2. [Car Price Prediction App using Flask API](https://github.com/nagik17/Car_Price_Prediction)
-3. [Custom Implementation of all ML well-known and state-of-the-art algorithms](https://github.com/nagik17/Machine_Learning_Algorithms)
-4. [Custom Implementation of all DL algorithms](https://github.com/nagik17/Deep_Learning_Algorithms)
+3. [Implementation of all ML well-known and state-of-the-art algorithms](https://github.com/nagik17/Machine_Learning_Algorithms)
+4. [Implementation of all DL algorithms](https://github.com/nagik17/Deep_Learning_Algorithms)
 5. YOLO V4 Implementation for Number Plate Dataset - Ongoing
 6. YOLO V4 for detecting balls from Ball Dataset - Ongoing
 -------------------------------------------------------------------------------------------------------------------------------------------------------
