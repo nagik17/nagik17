@@ -10,16 +10,16 @@
 5. YOLO V4 Implementation for Number Plate Dataset - Ongoing
 6. YOLO V4 for detecting balls from Ball Dataset - Ongoing
 7. End To End ML Cases Studies:
-- Quora Similar Questions Prediction 
-- Personalized Cancer Diagnosis
-- Facebook Like Graph Network Link Prediction 
-- StackOver Flow questions Tag prediction 
-- New York Taxi Prediction for a given location
+      - Quora Similar Questions Prediction 
+      - Personalized Cancer Diagnosis
+      - Facebook Like Graph Network Link Prediction 
+      - StackOver Flow questions Tag prediction 
+      - New York Taxi Prediction for a given location
 8. End to End Recommendation System Case Study:
-- Amazon Apparel Recommendation System
+      - Amazon Apparel Recommendation System
 9. End to End DS Case Studies:
-- Human Activity Recognition
-- Self Driving Car, rotation of steering wheel for a video
+      - Human Activity Recognition
+      - Self Driving Car, rotation of steering wheel for a video
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Recently, started writing blogs on Medium, https://krithikanagi.medium.com <br />
 1. [Collaborative-Filtering versus Content-based Recommendation Systems](https://krithikanagi.medium.com/collaborative-filtering-versus-content-based-rs-590a2ec8e7b7)
