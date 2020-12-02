@@ -5,6 +5,7 @@
 **Latest projects Include:**
 1. [ChatBot Implementation using Tflearn](https://github.com/nagik17/ChatBot_using_Tflearn)
 2. [Car Price Prediction App using Flask API](https://github.com/nagik17/Car_Price_Prediction)
+3. [Note Authentication App using Streamlit Library](https://github.com/nagik17/Note_Authentication)
 3. [Implementation of all ML well-known and state-of-the-art algorithms](https://github.com/nagik17/Machine_Learning_Algorithms)
 4. [Implementation of all DL algorithms](https://github.com/nagik17/Deep_Learning_Algorithms)
 5. YOLO V4 Implementation for Number Plate Dataset - Ongoing
