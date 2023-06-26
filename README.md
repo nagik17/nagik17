@@ -1,6 +1,5 @@
 ### Hello there, **Welcome to my Github profile!**
-**About Me:**
-- I'm Krithika N, Junior data scientist. I have worked on Machine Learning algorithms on huge datasets, using Clustering, Recommendation Systems and Deep Learning algorithms. 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 **Latest projects Include:**
 1. [ChatBot Implementation using Tflearn](https://github.com/nagik17/ChatBot_using_Tflearn)
